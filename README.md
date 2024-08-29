@@ -1,2 +1,2 @@
 # snigdhasadhu
-This is my first
+This is My First Git Repository
